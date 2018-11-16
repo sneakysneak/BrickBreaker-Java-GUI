@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GameMiniProj2.iml:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameMiniProj2_iml_jar</output-path>
+    <root id="archive" name="GameMiniProj2.iml.jar">
+      <element id="module-output" name="GameMiniProj2.iml" />
+    </root>
+  </artifact>
+</component>
